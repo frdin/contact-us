@@ -284,3 +284,80 @@ html, body {
     height: 60%;
     margin: 0% 0 0 70%;
 }
+
+.sanny1{
+    margin: 15% 5%;
+    float: right;
+}
+
+.sanny2{
+    width: 30%;
+    height: 100%;
+    float: right;
+}
+
+.sanny3{
+    width: 28%;
+    height: 99%;
+    float: left;
+}
+
+.p15{
+    z-index: 1;
+    color: white;
+    font-size: 32px;
+    letter-spacing: 3px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.d8{
+    margin-top: 100%;
+    width: 100%;
+    height: 50%;
+}
+
+.p16{
+    z-index: 1;
+    color: black;
+    font-size: 80px;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    letter-spacing: 5px;
+    padding: 11% 0px 0px 7%;
+    font-weight: bold;
+}
+
+.p17{
+    margin: 49% 7% 0 78px;
+    color: gray;
+    line-height: 160%;
+    text-align: justify;
+}
+
+.d9{
+    width: 10%;
+    height: 10%;
+    margin: 10% 0 0 21%;
+}
+
+.d10{
+    width: 5px;
+    height: 45px;
+    background-color: gray;
+    margin: -13% 0% 29px 35%;
+    text-align: justify;
+}
+
+.p18{
+    color: gray;
+    margin: -70px 0 0 146px;
+}
+
+.sanny4{
+    width: 20%;
+    height: 60%;
+    margin: -13% 0 0 91%;
+}
